@@ -11,3 +11,15 @@ git clone git@github.com:richmoh/Node-WebRTC-React-Video-Bubbles.git;
 cd Node-WebRTC-React-Video-Bubbles;
 npm install;
 ```
+
+### To run the server
+
+```
+npm run start
+```
+
+### To run the tests
+
+```
+npm run tests
+```
