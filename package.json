@@ -5,12 +5,13 @@
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon .",
-    "test": "mocha --reporter spec"
+    "test": "mocha ./test/*"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
     "express": "^4.17.1",
     "express-nunjucks": "^2.2.5",
     "mocha": "^8.2.1",
