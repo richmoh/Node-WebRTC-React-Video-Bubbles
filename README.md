@@ -4,7 +4,7 @@
 
 The aim of this small project to have a play with WebRTC and create a page that creates video "bubbles" for each person that connects.
 
-## Installation
+### Installation
 
 ```
 git clone git@github.com:richmoh/Node-WebRTC-React-Video-Bubbles.git;
