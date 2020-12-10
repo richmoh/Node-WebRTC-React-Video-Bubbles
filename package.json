@@ -1,25 +1,7 @@
 {
-  "name": "node-webrtc-react-video-bubbles",
-  "version": "1.0.0",
-  "description": "A video conferencing experiment to see how many people we can get floating around in a browser",
-  "main": "src/index.js",
-  "scripts": {
-    "start": "nodemon .",
-    "tests": "mocha ./test/*"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "chai": "^4.2.0",
-    "chai-http": "^4.3.0",
+    "@types/express": "^4.17.9",
     "express": "^4.17.1",
-    "express-nunjucks": "^2.2.5",
-    "mocha": "^8.2.1",
-    "nodemon": "^2.0.6",
-    "nunjucks": "^3.2.2",
-    "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^2.0.1",
-    "socket.io": "^3.0.4",
-    "uuid": "^8.3.2"
+    "typescript": "^4.1.2"
   }
 }

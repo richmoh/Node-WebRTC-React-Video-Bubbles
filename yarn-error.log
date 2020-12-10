@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn init
+
+PATH: 
+  /Users/richardmohammed/.symfony/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/Users/richardmohammed/.symfony/bin:/Users/richardmohammed/Library/Android/sdk/platform-tools:/Users/richardmohammed/Library/Android/sdk/emulator:/Users/richardmohammed/Library/Android/sdk/tools:/Users/richardmohammed/Library/Android/sdk/platform-tools:/Users/richardmohammed/Library/Android/sdk/emulator:/Users/richardmohammed/Library/Android/sdk/tools
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  14.13.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:125850:13)
+      at Interface.emit (events.js:314:20)
+      at Interface._ttyWrite (readline.js:875:16)
+      at ReadStream.onkeypress (readline.js:213:10)
+      at ReadStream.emit (events.js:314:20)
+      at emitKeys (internal/readline/utils.js:344:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1144:36)
+      at ReadStream.emit (events.js:314:20)
+      at addChunk (_stream_readable.js:307:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
